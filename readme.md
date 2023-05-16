@@ -8,8 +8,6 @@
 
 This is a simple wrapper to the Betfair Exchange API. It's main role is to simplify the initiation and maintenance of Betfair sessions. It requires that you understand the requests that the Betfair API accepts and the parameters that each uses. These can be found on the [Betfair Developer Site](http://docs.developer.betfair.com/docs). These can be a bit daunting at first, but when used for a while, the underlying structure becomes clear.
 
-If this isn't to your taste, then you might like to consider [Daniel D'Angeli's full blooded package](https://github.com/danieledangeli/betfair-php) or [Dan Cotora's very lightweight wrapper](https://github.com/dcro/simple-betfair-php-api).
-
 ## Installation
 
 At the command line run
@@ -122,7 +120,7 @@ It's recommended that you only run the tests via the test suites, as some tests 
 
 ## Issues
 
-This package was developed to meet a specific need and then generalised for wider use. If you have a use case not currently met, or see something that appears to not be working correctly, please raise an issue at the [github repo](https://github.com/petercoles/betfair-exchange/issues).
+This package was developed to meet a specific need and then generalised for wider use. If you have a use case not currently met, or see something that appears to not be working correctly, please raise an issue at the [github repo](https://github.com/ivanshaba/).
 
 ## License
 
